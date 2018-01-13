@@ -1,4 +1,4 @@
-package com.codelab17.test;
+package com.test;
 
 import com.test.repositories.RepositoryConfig;
 import com.ctest.repositories.RepositoryFactory;
